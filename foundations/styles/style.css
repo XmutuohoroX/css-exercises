@@ -1,0 +1,34 @@
+div{
+    background-color: red;
+    color: white;
+}
+.odd{
+    background-color: #ffc0cb;
+    font-family: verdana,'DejaVu Sans',sans-serif;
+}
+.odd.cooler{
+    font-size: 24px;
+}
+#even1{
+    color: #0000ff;
+    font-size: 36px;
+    background-color: white;
+}
+#even2{
+    color: #000;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #90ee90;
+}
+.btn-1,.btn-2{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman',san-serif;
+}
+.btn-1{
+    background-color: #000;
+    color: #fff;
+}
+.btn-2{
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 0, 0);
+}
